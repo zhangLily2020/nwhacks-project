@@ -400,7 +400,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/UTech/MG-Karting
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: /Users/rachelng/Documents/GitHub/nwhacks-project/nwHacks VR Waiting Room + Interview Room
+  m_LastProjectPath: /Users/zhang/Documents/GitHub/nwhacks-project/nwHacks VR Waiting Room + Interview Room
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:

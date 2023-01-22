@@ -4,7 +4,13 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Waiting Room.unity
+    guid: d0f1d488ca6194513a8bd7c1b23cc110
+  - enabled: 1
+    path: Assets/Scenes/Interview Room.unity
+    guid: 043452902fd79428b8e8d1c01222ee71
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260,
       type: 2}
