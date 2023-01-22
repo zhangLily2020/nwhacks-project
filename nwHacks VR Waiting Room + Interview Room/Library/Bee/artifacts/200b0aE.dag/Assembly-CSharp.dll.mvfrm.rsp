@@ -10,6 +10,8 @@ Library/Bee/artifacts/mvdfrm/Unity.ProBuilder.AddOns.Editor.ref.dll_8D0FF91D4B78
 Library/Bee/artifacts/mvdfrm/Unity.ProBuilder.AssetIdRemapUtility.ref.dll_EE877D84CB49D950.mvfrm
 Library/Bee/artifacts/mvdfrm/Unity.ProBuilder.Editor.ref.dll_8A2D4E048EA34101.mvfrm
 Library/Bee/artifacts/mvdfrm/Unity.ProBuilder.ref.dll_2A394F93640371B0.mvfrm
+Library/Bee/artifacts/mvdfrm/Unity.ProGrids.Editor.ref.dll_6D010FDD3E768F2F.mvfrm
+Library/Bee/artifacts/mvdfrm/Unity.ProGrids.ref.dll_DC6FD76936F598A2.mvfrm
 Library/Bee/artifacts/mvdfrm/Unity.Rider.Editor.ref.dll_A276D0F1D4D046E3.mvfrm
 Library/Bee/artifacts/mvdfrm/Unity.Services.Core.Analytics.ref.dll_2B40CF9C4928A9CB.mvfrm
 Library/Bee/artifacts/mvdfrm/Unity.Services.Core.Environments.ref.dll_4A67E7CED1598121.mvfrm
@@ -132,4 +134,4 @@ Library/Bee/artifacts/mvdfrm/UnityEngine.VirtualTexturingModule.dll_0C178B06C2B0
 Library/Bee/artifacts/mvdfrm/UnityEngine.VRModule.dll_A0BD6C3131C65574.mvfrm
 Library/Bee/artifacts/mvdfrm/UnityEngine.WindModule.dll_20E439230DC07D10.mvfrm
 Library/Bee/artifacts/mvdfrm/UnityEngine.XRModule.dll_D37C2F35BB00A2D2.mvfrm
-Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.Antlr3.Runtime.dll_BD7B3C4B9BC311E3.mvfrm
+Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.Antlr3.Runtime.dll_13FEE341F67DB1FD.mvfrm
