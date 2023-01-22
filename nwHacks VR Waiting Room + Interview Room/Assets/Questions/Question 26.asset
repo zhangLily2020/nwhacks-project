@@ -12,5 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 06bdafb187119415b9587515403667b7, type: 3}
   m_Name: Question 26
   m_EditorClassIdentifier: 
-  prompt: 
-  keywords: []
+  prompt: What sorts of things did you do at school that were beyond expectations?
+  keywords:
+  - initiative
+  - took the step
+  - took the lead
+  - leadership

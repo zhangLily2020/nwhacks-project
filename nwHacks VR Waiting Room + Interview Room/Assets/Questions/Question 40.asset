@@ -12,5 +12,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 06bdafb187119415b9587515403667b7, type: 3}
   m_Name: Question 40
   m_EditorClassIdentifier: 
-  prompt: 
-  keywords: []
+  prompt: Have you ever been in a position where you had to lead a group of peers?
+    How did you handle it?
+  keywords:
+  - led
+  - in charge
+  - decision
+  - offered help
+  - feedback
+  - empower
+  - motivate
+  - initiative
+  - support
+  - empathize
+  - collaborate
+  - responsible

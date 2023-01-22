@@ -12,5 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 06bdafb187119415b9587515403667b7, type: 3}
   m_Name: Question 36
   m_EditorClassIdentifier: 
-  prompt: 
-  keywords: []
+  prompt: We work with a great deal of confidential information. Describe how you
+    have handled sensitive information in a past work experience. What strategies
+    did you utilize to maintain confidentiality when pressured by others?
+  keywords:
+  - honest
+  - ethical
+  - agree
+  - conform

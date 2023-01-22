@@ -12,5 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 06bdafb187119415b9587515403667b7, type: 3}
   m_Name: Question 47
   m_EditorClassIdentifier: 
-  prompt: 
-  keywords: []
+  prompt: Have you had to "sell" an idea to your co-workers, classmates or group?
+    How did you do it? Did they "buy" it?
+  keywords:
+  - sell
+  - persuade
+  - benefits
+  - confident

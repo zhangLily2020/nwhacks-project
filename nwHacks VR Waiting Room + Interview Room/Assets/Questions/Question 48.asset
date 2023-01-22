@@ -12,5 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 06bdafb187119415b9587515403667b7, type: 3}
   m_Name: Question 48
   m_EditorClassIdentifier: 
-  prompt: 
-  keywords: []
+  prompt: Describe a situation in which you were able to use persuasion to successfully
+    convince someone to see things your way.
+  keywords:
+  - sell
+  - persuade
+  - benefits
+  - confident
