@@ -407,6 +407,7 @@
 "Assets/Brick Project Studio/_BPS Basic Assets/Common/Scripts and Animations/Windows/opencloseWindow.cs"
 "Assets/Brick Project Studio/_BPS Basic Assets/Common/Scripts and Animations/Windows/opencloseWindow1.cs"
 "Assets/Question.cs"
+"Assets/sceneManager.cs"
 "Assets/XRPlatformControllerSetup.cs"
 -langversion:9.0
 
