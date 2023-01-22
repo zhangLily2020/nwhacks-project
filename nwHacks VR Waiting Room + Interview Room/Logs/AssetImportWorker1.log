@@ -985,3 +985,417 @@ Received Import Request.
   path: Assets/Dining Chairs, by Tobiesen/Models/LowLevel.FBX
   artifactKey: Guid(a1510e13c9154f141a8062844ee4dbdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Dining Chairs, by Tobiesen/Models/LowLevel.FBX using Guid(a1510e13c9154f141a8062844ee4dbdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fd5d449e9fc8279781c37e2bf5cbbf7') in 0.337969 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 117.576968 seconds.
+  path: Assets/Office Room Furniture/Office/Textures/Armchair_1_Normal.png
+  artifactKey: Guid(2481f783ac1300a40b91de39a0665f4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Room Furniture/Office/Textures/Armchair_1_Normal.png using Guid(2481f783ac1300a40b91de39a0665f4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1d66921b98cae04914320c5873661c5') in 0.092003 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/Office Room Furniture/Office/Textures/Objects_1_Normal.png
+  artifactKey: Guid(b8811f30e86ec714e81b298574289d0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Room Furniture/Office/Textures/Objects_1_Normal.png using Guid(b8811f30e86ec714e81b298574289d0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca266620f6a75a0dd05ebc4fd33638ed') in 0.039182 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/Office Room Furniture/Office/Textures/Floor_Lamp_1.png
+  artifactKey: Guid(cd339f835bcbbe0459a71725be1a83bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Room Furniture/Office/Textures/Floor_Lamp_1.png using Guid(cd339f835bcbbe0459a71725be1a83bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b630dc7cd738ed8ffc0d49bb85f9fada') in 0.037139 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000088 seconds.
+  path: Assets/Office Room Furniture/Office/Textures/FloorPlant_1_Normal.png
+  artifactKey: Guid(172de56375a8daa45b76c610de001538) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Room Furniture/Office/Textures/FloorPlant_1_Normal.png using Guid(172de56375a8daa45b76c610de001538) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4632e51dafc41af8f55877eef4af62cc') in 0.012957 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000099 seconds.
+  path: Assets/Office Room Furniture/Office/Textures/FloorPlant_1_Specular.png
+  artifactKey: Guid(16f02ec14d5a14449b8a30131c0cbf42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Room Furniture/Office/Textures/FloorPlant_1_Specular.png using Guid(16f02ec14d5a14449b8a30131c0cbf42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e85e6e1d9c2b2ec378e6e4f71f673e7c') in 0.011544 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Office Room Furniture/Office/Textures/MouseKeyboard_1_Normal.png
+  artifactKey: Guid(25d81d462817c1444b6156da29d8a92a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Room Furniture/Office/Textures/MouseKeyboard_1_Normal.png using Guid(25d81d462817c1444b6156da29d8a92a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa17e8f398b34dcdac753e8f51d1a27a') in 0.014561 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000103 seconds.
+  path: Assets/Office Room Furniture/Office/Textures/Armchair_4.png
+  artifactKey: Guid(03ea044f723a75c4dbc4cece96e5752a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Room Furniture/Office/Textures/Armchair_4.png using Guid(03ea044f723a75c4dbc4cece96e5752a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49be0f6c5be5f1af3f41195079742cfb') in 0.014674 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001690 seconds.
+  path: Assets/Office Room Furniture/Office/Textures/FloorPlant_1.png
+  artifactKey: Guid(026bba1353a7acd45ad092f400d449ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Room Furniture/Office/Textures/FloorPlant_1.png using Guid(026bba1353a7acd45ad092f400d449ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8780a6c29b6b506525aa39e20f8d28d6') in 0.020675 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000514 seconds.
+  path: Assets/Office Room Furniture/Office/Textures/Objects_1.png
+  artifactKey: Guid(0806001f808069941ac772b70842d30f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Room Furniture/Office/Textures/Objects_1.png using Guid(0806001f808069941ac772b70842d30f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac3f0f2095e6d88fd029dc0644aa5232') in 0.014410 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/Office Room Furniture/Office/Textures/Nesting_Table_1_Normal.png
+  artifactKey: Guid(03e68c1b1e56e814a9e62452f7a6c2d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Room Furniture/Office/Textures/Nesting_Table_1_Normal.png using Guid(03e68c1b1e56e814a9e62452f7a6c2d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1942c98eb6028c54af4fdaa9faa0061c') in 0.017557 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000090 seconds.
+  path: Assets/Office Room Furniture/Office/Textures/Armchair_1_Specular.png
+  artifactKey: Guid(0cd262e15db74544091ccef2b761f119) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Room Furniture/Office/Textures/Armchair_1_Specular.png using Guid(0cd262e15db74544091ccef2b761f119) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '661e2dd56e2d5687c12ae5ac7b3d9da4') in 0.016661 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000088 seconds.
+  path: Assets/Office Room Furniture/Office/Textures/Floor_Lamp_1_Normal.png
+  artifactKey: Guid(3fa5712015f4cad45b5e96d99b15d4a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Room Furniture/Office/Textures/Floor_Lamp_1_Normal.png using Guid(3fa5712015f4cad45b5e96d99b15d4a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e02e1bedb7382d6c4a4fc91940998be') in 0.014272 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Office Room Furniture/Office/Textures/Armchair_2.png
+  artifactKey: Guid(9f87e967abe788942982716db167aa5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Room Furniture/Office/Textures/Armchair_2.png using Guid(9f87e967abe788942982716db167aa5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca667c960baccc32fc3a93eb30d0ac5b') in 0.016112 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Office Room Furniture/Office/Textures/Nesting_Table_1.png
+  artifactKey: Guid(01163516efa8821408693b5c8693d321) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Room Furniture/Office/Textures/Nesting_Table_1.png using Guid(01163516efa8821408693b5c8693d321) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b38904b353507f24344d6bf3a9af86a') in 0.018230 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/Office Room Furniture/Office/Textures/Monitor_1.png
+  artifactKey: Guid(0f6dc364ac678114a9fb8ea6522b3ed6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Room Furniture/Office/Textures/Monitor_1.png using Guid(0f6dc364ac678114a9fb8ea6522b3ed6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52496a993f589c6d5e110ee13617880b') in 0.012055 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 913.943201 seconds.
+  path: Assets/01_AssetStore/DoorPackFree/Scenes/Floor.png
+  artifactKey: Guid(74f0f4be3cf5d10489f530c633adcdf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/01_AssetStore/DoorPackFree/Scenes/Floor.png using Guid(74f0f4be3cf5d10489f530c633adcdf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae504658f5ac4dd7ff731030d483a639') in 0.020458 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Assets/01_AssetStore/DoorPackFree/Scenes/Light.mat
+  artifactKey: Guid(7bb4d41d8be498b418e107b9fcd42bd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/01_AssetStore/DoorPackFree/Scenes/Light.mat using Guid(7bb4d41d8be498b418e107b9fcd42bd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f3b819ecfdfb056a3d2431eadd43357') in 0.010769 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 42.852230 seconds.
+  path: Assets/01_AssetStore/DoorPackFree/Meshes/Video intercom/Materials/V1.mat
+  artifactKey: Guid(7497d8d1425a79244bbf755d9b328dd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/01_AssetStore/DoorPackFree/Meshes/Video intercom/Materials/V1.mat using Guid(7497d8d1425a79244bbf755d9b328dd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d110ebc7585e35c448db9f0e4fa7879') in 0.075737 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 526.933156 seconds.
+  path: Assets/Modern Furniture/Prefabs/Coffee Table.prefab
+  artifactKey: Guid(82ec713d07f8ca84f8e9deff3be21b2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern Furniture/Prefabs/Coffee Table.prefab using Guid(82ec713d07f8ca84f8e9deff3be21b2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c045bbda929d206a85cd1d7cadbf6afa') in 1.040601 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000084 seconds.
+  path: Assets/Modern Furniture/Prefabs/Rock Table.prefab
+  artifactKey: Guid(d3578800f4626e741858f02956302cf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern Furniture/Prefabs/Rock Table.prefab using Guid(d3578800f4626e741858f02956302cf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '184785e800a843c07c02faca7b0b65ea') in 0.041693 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000079 seconds.
+  path: Assets/Modern Furniture/Prefabs/Round Table.prefab
+  artifactKey: Guid(28f93f3c72b880b4ab622fb432cb9d91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern Furniture/Prefabs/Round Table.prefab using Guid(28f93f3c72b880b4ab622fb432cb9d91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9447ea8ac67948dada0a43d864d23a64') in 0.055551 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000070 seconds.
+  path: Assets/Modern Furniture/Prefabs/Curve Chair.prefab
+  artifactKey: Guid(a46007e0e828c384d99e630726ef6191) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modern Furniture/Prefabs/Curve Chair.prefab using Guid(a46007e0e828c384d99e630726ef6191) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '254d347e9efddc1cbafc2e64793491ff') in 0.038378 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 853.348341 seconds.
+  path: Assets/AllStarCharacterLibray/Materials/A03.png
+  artifactKey: Guid(b26014e8436a7644ebedeb664fdb94e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllStarCharacterLibray/Materials/A03.png using Guid(b26014e8436a7644ebedeb664fdb94e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7972d97db660e01f55a7ca396b37c71') in 0.038871 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/AllStarCharacterLibray/Materials/A05.png
+  artifactKey: Guid(4000eb0ff57525446bd0573eacc27b9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllStarCharacterLibray/Materials/A05.png using Guid(4000eb0ff57525446bd0573eacc27b9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '203758c15a7751b7e786878ed6820604') in 0.008501 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000074 seconds.
+  path: Assets/AllStarCharacterLibray/Materials/A06.png
+  artifactKey: Guid(6a62822e6299d4c4586799122c2f8441) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllStarCharacterLibray/Materials/A06.png using Guid(6a62822e6299d4c4586799122c2f8441) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f997398fb6bfc6426a858982f8b94e4') in 0.007994 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/AllStarCharacterLibray/Materials/C03.png
+  artifactKey: Guid(2179cf180f33d2e4d9a90029a0861c15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllStarCharacterLibray/Materials/C03.png using Guid(2179cf180f33d2e4d9a90029a0861c15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a2ec74925a403a5ade31a6bce03a8fa') in 0.007973 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/AllStarCharacterLibray/Materials/SexySidekicks.mat
+  artifactKey: Guid(7bd8507face37194ebb19636f5da43dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllStarCharacterLibray/Materials/SexySidekicks.mat using Guid(7bd8507face37194ebb19636f5da43dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a73ebb4284d56a39e26ae6c94ada9d1c') in 0.351462 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/AllStarCharacterLibray/Materials/C06.png
+  artifactKey: Guid(d986327c2189d0f40900fec353fab5cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllStarCharacterLibray/Materials/C06.png using Guid(d986327c2189d0f40900fec353fab5cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f29c567ee97e2e805bff5291d5a858e8') in 0.007857 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.505071 seconds.
+  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@1HAttack.fbx
+  artifactKey: Guid(2decfbd282a88ec46b0d0c4aa37b96fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@1HAttack.fbx using Guid(2decfbd282a88ec46b0d0c4aa37b96fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d1b41f39f5d7394d6ec5ceb5bbd7fb9') in 0.007060 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@2HWalkF.fbx
+  artifactKey: Guid(da7f680d0f0ae3c459f2ddda2c1db010) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@2HWalkF.fbx using Guid(da7f680d0f0ae3c459f2ddda2c1db010) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7c4df303a1f8afcc88626d51ca6bfcf') in 0.004687 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000062 seconds.
+  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@1HDeathC.fbx
+  artifactKey: Guid(57c81318825d35a40aaff7519e8ba770) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@1HDeathC.fbx using Guid(57c81318825d35a40aaff7519e8ba770) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04a58a8ce2972bec52c61b364bc636a5') in 0.005135 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000065 seconds.
+  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@1HDeathA.fbx
+  artifactKey: Guid(8f9fa9b92f0028845a5ec1fe695b0b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@1HDeathA.fbx using Guid(8f9fa9b92f0028845a5ec1fe695b0b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6d76ed15f1cb73f04e5f990628584f3') in 0.004915 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000062 seconds.
+  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@BowDeathB.fbx
+  artifactKey: Guid(e86d40a9b4c214b4aac84829bde2b5c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@BowDeathB.fbx using Guid(e86d40a9b4c214b4aac84829bde2b5c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'baf4f4ece42989d1dd4704cfceff04ab') in 0.005118 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@2HCombatRunF.fbx
+  artifactKey: Guid(6159abd4343a5d244a08720e789c58be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@2HCombatRunF.fbx using Guid(6159abd4343a5d244a08720e789c58be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a89139b8cac753944af153f84161a820') in 0.004632 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@2HDeathC.fbx
+  artifactKey: Guid(49d4fcc68e69a554fa1f08bba7e43ce8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@2HDeathC.fbx using Guid(49d4fcc68e69a554fa1f08bba7e43ce8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8237e24563e797c6e09dbf1de4c15a5a') in 0.005938 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@DualCombatRunF.fbx
+  artifactKey: Guid(e5a8692419a080146a562db578ab9d3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@DualCombatRunF.fbx using Guid(e5a8692419a080146a562db578ab9d3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96f45f5335f1d8ad439025b293fda1f6') in 0.004250 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@BowDeathC.fbx
+  artifactKey: Guid(a1ce2c943b5ce9e449d8dd0dcb54b2e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@BowDeathC.fbx using Guid(a1ce2c943b5ce9e449d8dd0dcb54b2e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2bc07ab8b9e65d18adf021676fa480c') in 0.005137 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@1HIdle.fbx
+  artifactKey: Guid(118f38518c1b50b458babc22766288b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@1HIdle.fbx using Guid(118f38518c1b50b458babc22766288b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fbb3cc22f35a521cb9d98f5f0079d0e') in 0.005428 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000069 seconds.
+  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@1HWalkF.fbx
+  artifactKey: Guid(18f7f237528712b41a3ab9e0359c80e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@1HWalkF.fbx using Guid(18f7f237528712b41a3ab9e0359c80e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aeb3b976421697b1cf59c1299811fc74') in 0.004684 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@2HAttack.fbx
+  artifactKey: Guid(60e5ff459ad67d747ad145438155765a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@2HAttack.fbx using Guid(60e5ff459ad67d747ad145438155765a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdbb4c180f7164dad56bf136958ed145') in 0.004738 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@BowAttack.fbx
+  artifactKey: Guid(bb31d7727e2c7aa4ebcb3ef0726347e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@BowAttack.fbx using Guid(bb31d7727e2c7aa4ebcb3ef0726347e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9fd9ef8d6f43f68cc64feba64e81123') in 0.004911 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000065 seconds.
+  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@2HPain.fbx
+  artifactKey: Guid(cc317a50a81864345a7652fb8b949015) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@2HPain.fbx using Guid(cc317a50a81864345a7652fb8b949015) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ee4f5b7d29bc1a493ba20b05e3da812') in 0.004355 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@1HDeathB.fbx
+  artifactKey: Guid(ec2c4a3c872fff240a13486e79b7e30a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@1HDeathB.fbx using Guid(ec2c4a3c872fff240a13486e79b7e30a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '861baa7f76659d6aba53472a24b617df') in 0.004736 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@1HCombatIdle.fbx
+  artifactKey: Guid(db789609ec8cd1e4488f277026c78a20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@1HCombatIdle.fbx using Guid(db789609ec8cd1e4488f277026c78a20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68511e2199452aebe95aec689e94d077') in 0.004744 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.358053 seconds.
+  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@DualDeathB.fbx
+  artifactKey: Guid(ad43e33e6457f824ca4198a3318fbb70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@DualDeathB.fbx using Guid(ad43e33e6457f824ca4198a3318fbb70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8e2bd35a633aa3196858bcfe6db944a') in 0.007169 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@PistolDeathA.fbx
+  artifactKey: Guid(394315a075b7af449bc6811ed3fc50fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@PistolDeathA.fbx using Guid(394315a075b7af449bc6811ed3fc50fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9fa93805cdc3549eaedba231b6e42d4') in 0.005559 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@PistolIdle.fbx
+  artifactKey: Guid(f284a5874947b264b991eacfcd472106) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@PistolIdle.fbx using Guid(f284a5874947b264b991eacfcd472106) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6e1e094319f7b4435314b978b9a7b68') in 0.007421 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@PistolWalkF.fbx
+  artifactKey: Guid(f69214a2d4ea60f48bccdc6d90cb3da1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@PistolWalkF.fbx using Guid(f69214a2d4ea60f48bccdc6d90cb3da1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8acf8806f6072409034d7dbde550fdba') in 0.005339 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000101 seconds.
+  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@PistolCombatIdle.fbx
+  artifactKey: Guid(b30b1a7faa9cce6439c73704272ffddf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@PistolCombatIdle.fbx using Guid(b30b1a7faa9cce6439c73704272ffddf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec8ef27bebf4081c06a321f5176f23d0') in 0.004985 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000122 seconds.
+  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@PistolDeathB.fbx
+  artifactKey: Guid(19053effcc4e3874ba9fa41629127733) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@PistolDeathB.fbx using Guid(19053effcc4e3874ba9fa41629127733) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1456a0fa9728e4be8c7b7f36d5ece28') in 0.005593 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000107 seconds.
+  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@DualDeathC.fbx
+  artifactKey: Guid(d91af45b2c6d8614788387d672d6c6b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@DualDeathC.fbx using Guid(d91af45b2c6d8614788387d672d6c6b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3070950a5b7f18d2ae7f814116f58991') in 0.007538 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@SpearIdle.fbx
+  artifactKey: Guid(16db2a7a7235b184f9dea05cc9fb6eb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@SpearIdle.fbx using Guid(16db2a7a7235b184f9dea05cc9fb6eb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6435e1390b1daa719accb3155b3c66d1') in 0.004911 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@RiflePain.fbx
+  artifactKey: Guid(93197a6c85b59c74fb7eacdb898bb104) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@RiflePain.fbx using Guid(93197a6c85b59c74fb7eacdb898bb104) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '279502f9f89be2733087464584067ec6') in 0.005268 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@RifleIdle.fbx
+  artifactKey: Guid(5242878c35d765d458331701d16c5def) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@RifleIdle.fbx using Guid(5242878c35d765d458331701d16c5def) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68a6dd5a192693a89dde2c7531ae2058') in 0.004927 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@RifleDeathA.fbx
+  artifactKey: Guid(74e786d01d976814b8e9cc5aa4da137f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@RifleDeathA.fbx using Guid(74e786d01d976814b8e9cc5aa4da137f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e341ab7d92dae6559282bf9ec48d710d') in 0.005202 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@DualIdle.fbx
+  artifactKey: Guid(04222c71f59e6b045a768ba940e85793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@DualIdle.fbx using Guid(04222c71f59e6b045a768ba940e85793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '334b26e0abd28722597e945c2d3dd20a') in 0.007697 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@SpearDeathB.fbx
+  artifactKey: Guid(40e9c7cbbe66acb439f00e66f5f6000a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@SpearDeathB.fbx using Guid(40e9c7cbbe66acb439f00e66f5f6000a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55786f949563be0b6de43657b7d9b4a9') in 0.006782 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@SpearDeathC.fbx
+  artifactKey: Guid(132c51657aaf90c4b8e29efc6f1b6433) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@SpearDeathC.fbx using Guid(132c51657aaf90c4b8e29efc6f1b6433) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30f0bfef3016d23444ea32cd86720fc9') in 0.005845 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000067 seconds.
+  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@SpearCombatIdle.fbx
+  artifactKey: Guid(71587ddec01bc4e4881dc088c6ccc60f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@SpearCombatIdle.fbx using Guid(71587ddec01bc4e4881dc088c6ccc60f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92221e380696b487066f9877fcd4d19c') in 0.005437 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.316643 seconds.
+  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@SpearSwipe.fbx
+  artifactKey: Guid(425b2c26486b4c64fa6f4180067847b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@SpearSwipe.fbx using Guid(425b2c26486b4c64fa6f4180067847b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a538dfad9ebf4d5d57c88c522bd8cd63') in 0.007103 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@SSCombatRunF.fbx
+  artifactKey: Guid(f2d38ef615e79a6438de27f535c25498) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@SSCombatRunF.fbx using Guid(f2d38ef615e79a6438de27f535c25498) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfcb50523d308420663ada2652249760') in 0.005520 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@SSPain.fbx
+  artifactKey: Guid(63e2994deb424864a8ac519e596853b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@SSPain.fbx using Guid(63e2994deb424864a8ac519e596853b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63c9678a4de21a1bb4d7ddb9c8f680af') in 0.005000 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@SSWalkF.fbx
+  artifactKey: Guid(415b0f33b0c8cab429b280e0e5725abf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@SSWalkF.fbx using Guid(415b0f33b0c8cab429b280e0e5725abf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e82369bc84647c13bde2cd5d0744e3c9') in 0.004820 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000062 seconds.
+  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@SSDeathA.fbx
+  artifactKey: Guid(c1092b990976ea64385856e4517d2845) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@SSDeathA.fbx using Guid(c1092b990976ea64385856e4517d2845) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e392e2e8490b81a0122dc41d94b94232') in 0.004887 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@UNDeathB.fbx
+  artifactKey: Guid(641cf838d67144543865eab2d1dd6209) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@UNDeathB.fbx using Guid(641cf838d67144543865eab2d1dd6209) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3773923f53fb2aa797ef547278d6b6e7') in 0.005240 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000069 seconds.
+  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@UNDeathC.fbx
+  artifactKey: Guid(7e27adb70885b5d48b70d98574000be6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@UNDeathC.fbx using Guid(7e27adb70885b5d48b70d98574000be6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '511daeaa3e57a91dddfc7f6f7f1bfaa1') in 0.005197 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@UNPain.fbx
+  artifactKey: Guid(f3d015544a9124444b780bb301ee739c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@UNPain.fbx using Guid(f3d015544a9124444b780bb301ee739c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a079ba5a9888dabd3a018071ac064d8') in 0.005407 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@SSDeathC.fbx
+  artifactKey: Guid(d4d580915f820124dadbe243402800fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@SSDeathC.fbx using Guid(d4d580915f820124dadbe243402800fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35a77a139feaea775e5906a2ad52ea87') in 0.005665 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@UNCombatRunF.fbx
+  artifactKey: Guid(55cafbc9c360f164f9232bf97c8f3a1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllStarCharacterLibray/RootAnimsFemale/BaseFemale@UNCombatRunF.fbx using Guid(55cafbc9c360f164f9232bf97c8f3a1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '312e67800990e55723aeb6707a8a18f5') in 0.004559 seconds 

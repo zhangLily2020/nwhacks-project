@@ -88,3 +88,8 @@ Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.IonicZip.dll_CD9A1AE53FA44FFE
 Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.YamlDotNet.dll_6291BC60C5B4A1DE.mvfrm
 Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.TextureAssets.dll_F9AFE5B48681FFD6.mvfrm
 Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.Antlr3.Runtime.dll_13FEE341F67DB1FD.mvfrm
+Library/Bee/artifacts/mvdfrm/UnityEngine.Analytics.dll_C1CE2D79ADAE8490.mvfrm
+Library/Bee/artifacts/mvdfrm/UnityEngine.dll_A947617159B6CD28.mvfrm
+Library/Bee/artifacts/mvdfrm/UnityEngine.Networking.dll_C7D3AD89E149D0E6.mvfrm
+Library/Bee/artifacts/mvdfrm/UnityEngine.PlaymodeTestsRunner.dll_50C762796BABF2C4.mvfrm
+Library/Bee/artifacts/mvdfrm/UnityEngine.UI.dll_5EFBDAB30BFB1D76.mvfrm

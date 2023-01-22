@@ -488,6 +488,7 @@ MeshRenderer:
   m_Materials:
   - {fileID: 2100000, guid: f26b7d43fb5704a10a478727c6ea08dd, type: 2}
   - {fileID: 2100000, guid: 5bb9e945df68744d9b87a1f43a217f80, type: 2}
+  - {fileID: 2100000, guid: bca819c7880d78245b09885ed9230437, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -648,7 +649,7 @@ MonoBehaviour:
       m_Rotation: 0
       m_Anchor: 9
     m_Material: {fileID: 0}
-    m_SubmeshIndex: 0
+    m_SubmeshIndex: 2
     m_ManualUV: 0
     elementGroup: -1
     m_TextureGroup: -1
@@ -748,7 +749,7 @@ MonoBehaviour:
   m_PreserveMeshAssetOnDestroy: 0
   assetGuid: 
   m_Mesh: {fileID: 1162933496}
-  m_VersionIndex: 4932
+  m_VersionIndex: 4936
   m_IsSelectable: 1
   m_SelectedFaces: 
   m_SelectedEdges: []
@@ -1037,21 +1038,21 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh63432
+  m_Name: pb_Mesh65366
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
     firstByte: 0
-    indexCount: 12
+    indexCount: 6
     topology: 0
     baseVertex: 0
     firstVertex: 16
-    vertexCount: 8
+    vertexCount: 4
     localAABB:
-      m_Center: {x: 19.061638, y: 3.4059145, z: 20.401741}
-      m_Extent: {x: 11.642746, y: 3.4059136, z: 10.066345}
+      m_Center: {x: 19.061638, y: 6.811828, z: 20.401741}
+      m_Extent: {x: 11.642746, y: 0, z: 10.066345}
   - serializedVersion: 2
-    firstByte: 24
+    firstByte: 12
     indexCount: 24
     topology: 0
     baseVertex: 0
@@ -1060,6 +1061,16 @@ Mesh:
     localAABB:
       m_Center: {x: 19.061638, y: 3.4059145, z: 20.401741}
       m_Extent: {x: 11.642746, y: 3.4059136, z: 10.066345}
+  - serializedVersion: 2
+    firstByte: 60
+    indexCount: 6
+    topology: 0
+    baseVertex: 0
+    firstVertex: 20
+    vertexCount: 4
+    localAABB:
+      m_Center: {x: 19.061638, y: 0.0000009536743, z: 20.401741}
+      m_Extent: {x: 11.642746, y: 0, z: 10.066345}
   m_Shapes:
     vertices: []
     shapes: []
@@ -1076,7 +1087,7 @@ Mesh:
   m_KeepVertices: 1
   m_KeepIndices: 1
   m_IndexFormat: 0
-  m_IndexBuffer: 1200130011001200110010001600170015001600150014000200030001000200010000000600070005000600050004000a000b0009000a00090008000e000f000d000e000d000c00
+  m_IndexBuffer: 1200130011001200110010000200030001000200010000000600070005000600050004000a000b0009000a00090008000e000f000d000e000d000c00160017001500160015001400
   m_VertexData:
     serializedVersion: 3
     m_VertexCount: 24

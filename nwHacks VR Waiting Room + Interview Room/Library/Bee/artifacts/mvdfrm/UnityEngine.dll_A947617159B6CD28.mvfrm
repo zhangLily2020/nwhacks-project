@@ -1,0 +1,14 @@
+Profiler
+UnityEngine
+NavMeshHit
+NavMeshTriangulation
+NavMesh
+ObstacleAvoidanceType
+NavMeshAgent
+NavMeshObstacleShape
+NavMeshObstacle
+NavMeshPathStatus
+NavMeshPath
+OffMeshLinkType
+OffMeshLinkData
+OffMeshLink

@@ -142,3 +142,17 @@ BrushTransform
 ProgressBar
 UnityEditor
 UIElements
+Profiler
+UnityEngine
+NavMeshHit
+NavMeshTriangulation
+NavMesh
+ObstacleAvoidanceType
+NavMeshAgent
+NavMeshObstacleShape
+NavMeshObstacle
+NavMeshPathStatus
+NavMeshPath
+OffMeshLinkType
+OffMeshLinkData
+OffMeshLink
