@@ -955,3 +955,33 @@ Received Import Request.
   path: Assets/Free Stylized Skybox/CubeMap/Materials/Sky_LowPoly_01_Day_a.mat
   artifactKey: Guid(133347283e115d147a5fcce7f47a538f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Free Stylized Skybox/CubeMap/Materials/Sky_LowPoly_01_Day_a.mat using Guid(133347283e115d147a5fcce7f47a538f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55a2159c7f712a560374532a150fd7c1') in 0.062956 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1035.438051 seconds.
+  path: Assets/ExampleAssets/Models/XRControllerRight.fbx
+  artifactKey: Guid(2d10b9b89f2474de9800b152c3d00004) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Models/XRControllerRight.fbx using Guid(2d10b9b89f2474de9800b152c3d00004) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3474796178909f3a361a527d355d143e') in 0.074418 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.378036 seconds.
+  path: Assets/ExampleAssets/Materials/Grid.mat
+  artifactKey: Guid(3f9336a53d1d2ea43895699cc52cb411) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Materials/Grid.mat using Guid(3f9336a53d1d2ea43895699cc52cb411) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e36043524f572ef5b14befc82e6b9989') in 0.014093 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.510679 seconds.
+  path: Assets/ExampleAssets/Prefabs/XRControllerRight.prefab
+  artifactKey: Guid(1f4d373a613d0466fbd8849470265852) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Prefabs/XRControllerRight.prefab using Guid(1f4d373a613d0466fbd8849470265852) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8da674800150c4f440242a03d6f489eb') in 0.010997 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.002900 seconds.
+  path: Assets/ExampleAssets/Tutorial/VRTutorialProjectSettings.asset
+  artifactKey: Guid(76b4acc4d12394f60a5accbec43ae2a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Tutorial/VRTutorialProjectSettings.asset using Guid(76b4acc4d12394f60a5accbec43ae2a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e04c56407369de874c2983d307a806b7') in 0.110410 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 371.841920 seconds.
+  path: Assets/Dining Chairs, by Tobiesen/Models/LowLevel.FBX
+  artifactKey: Guid(a1510e13c9154f141a8062844ee4dbdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dining Chairs, by Tobiesen/Models/LowLevel.FBX using Guid(a1510e13c9154f141a8062844ee4dbdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fd5d449e9fc8279781c37e2bf5cbbf7') in 0.337969 seconds 
