@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 /Users/zhang/Documents/GitHub/nwhacks-project/nwHacks VR Waiting Room + Interview Room
+=======
+/Users/brian/Documents/nwhacks-project/nwHacks VR Waiting Room + Interview Room
+>>>>>>> b22007980cc5b5f88333065d95d8c3218d9b02cf
